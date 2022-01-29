@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "name": "雯",
+            "gender": "0",
+            "age": "6",
+            "hobbies": "干饭",
+            "id": 2
+        },
+        {
+            "name": "木木辰",
+            "age": "20",
+            "hobbies": "涩涩",
+            "id": 6,
+            "gender": "0"
+        },
+        {
+            "name": "木辰辰",
+            "gender": "0",
+            "age": "5",
+            "hobbies": "涩涩",
+            "id": 7
+        },
+        {
+            "name": "啦啦啦",
+            "gender": "1",
+            "age": "15",
+            "hobbies": "美美",
+            "id": 8
+        }
+    ]
+}
