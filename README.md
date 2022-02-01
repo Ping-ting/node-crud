@@ -1,4 +1,4 @@
-# 一个使用express+mongodb 实现的学生信息增删改查的练习的介绍
+# 一个使用express+mongodb 实现的学生信息增删改查的练习
 + 使用的是express框架和mongodb数据库
 + 初期是使用文件读取存储数据的，主要是`students-fs.js`文件和`db.json`文件，自己封装了一些函数来使用
 + 之后使用了数据库来读取存储数据，使用的都是`mongodb`的`API`
